@@ -1,3 +1,5 @@
 [submodule "integration-backend"]
 	path = integration-backend
 	url = git@github.com:ShogoYK/integration-backend.git
+[submodule "integration-frontend"]
+	path = integration-frontend
